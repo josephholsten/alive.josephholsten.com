@@ -2,6 +2,12 @@
 
 Alive.
 
+Website now redirects to text version of this page.
+
+Switched encryption from asymmetric (requiring a key) to symmetric (requiring only a password). Decryption now only requires a password provided in my dead-man's-switch email.
+
+Trimmed archive contents from 21G to 6.5G by excluding: config, caches, externally created data. Fully reviewed: password store in pass(1) format, mail archives in maildir.
+
 2015-08-15
 
 Alive.
