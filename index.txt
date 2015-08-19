@@ -1,6 +1,14 @@
+2015-08-18
+
+Alive.
+
 2015-08-17
 
 Alive.
+
+Reviewed photos, removed all not taken by me. Organizing photos by date into the strftime(3) format "Pictures/%Y/%m-%b/%Y-%m-%dT%H%M%S.jpg".
+
+Converted password store entries to use url as file name.
 
 2015-08-16
 
