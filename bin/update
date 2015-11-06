@@ -1,0 +1,8 @@
+#!/bin/sh
+TMP=`mktmp`
+pdate >> $TMP
+echo >> $TMP
+echo "Alive." >> $TMP
+echo >> $TMP
+cat index.txt >> $TMP
+mv $TMP index.txt
