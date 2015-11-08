@@ -1,8 +1,14 @@
+2015-11-08
+
+Alive.
+
 2015-11-06
 
 Alive.
 
 `bin/update`: add script to write a minimal update
+
+Contact and calendar data available in vCard and iCalendar format, respectively.
 
 2015-10-27
 
