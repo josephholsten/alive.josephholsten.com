@@ -1,0 +1,29 @@
+
+TODO:
+- convert to incremental backups, authoritative archive should still be a full snapshot.
+- choose between tar+xz+gpg,  zip-e, or zip+gpg
+- fix agshoes-sync
+- use camlistore for things
+
+data exports
+- location (moves)
+- weight (withings)
+- commits (github)
+- rescuetime
+- irc (textual)
+- chat (adium)
+
+
+document tooling
+- agshoes-absent: remove everything
+- agshoes-cache-absent: remove cache & generated files
+- agshoes-config-present: ensure dotfiles exist
+- agshoes-heartbeat: update alive.josephholsten.com
+- agshoes-local-dedupe: identify duplicate files
+- agshoes-local-sync: stage files into a local archive for backing up
+- agshoes-remote-sync: remotely store archive
+- agshoes-sync:
+- agshoes-vdir-sync: update local copy of contacts & calendars
+- agshoes-mail-sync: update local copy of mail
+- agshoes-photo-import: import files into local photo store
+- agshoes-present: make sure everything is correctly installed & configured
