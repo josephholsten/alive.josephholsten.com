@@ -2,9 +2,7 @@
 
 Alive.
 
-2016-07-20
-
-Alive.
+bin/update: don't add a duplicate entry for a day
 
 2016-07-19
 
