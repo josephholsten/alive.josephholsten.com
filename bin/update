@@ -5,6 +5,6 @@ echo >> $TMP
 echo "Alive." >> $TMP
 echo >> $TMP
 cat index.txt >> $TMP
+mv $TMP index.txt
 ci -m $(pdate)
 push
-mv $TMP index.txt
